@@ -21,5 +21,8 @@
       "price": "$330.00 USD",
       "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d50c2d82-1215-4a8c-8ab4-4c68deb43471_2000x.jpg?v=1601904984"
     }
-  ]
+  ],
+  "profile": {
+    "name": "DimitriMichel"
+  }
 }
