@@ -1,27 +1,69 @@
 {
-  "products" : [
-    {
+  "products" : {
+    "Outerwear": [    {
       "id": "shearling-jacket-brown",
       "name": "Shearling Jacket in Brown",
       "details": "A classic silhouette, reimagined in an oversized fit. Crafted from a tumbled Brown leather and black shearling lining. Front zip pockets and heavyweight zip closure. Leather tape seam details.",
       "price": "$1,045.00 USD",
       "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_cc273e9a-ae00-4c38-bc89-629e5f40fedb_2000x.jpg?v=1601905099"
     },
-    {
-      "id": "mohair-work-shirt-red",
-      "name": "Mohair Work Shirt in Red",
-      "details": "A slightly oversized work shirt made from a British made plaid Mohair and fully lined. Featuring side pockets and a single chest pocket. Front zip closure and buttoned cuffs. Contrast faux leather spread collar.",
-      "price": "$155.00 USD",
-      "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d8edc31d-49d8-4949-9fa9-ad6e1b4c2f10_2000x.jpg?v=1601905257"
+      {
+        "id": "mohair-work-shirt-red",
+        "name": "Mohair Work Shirt in Red",
+        "details": "A slightly oversized work shirt made from a British made plaid Mohair and fully lined. Featuring side pockets and a single chest pocket. Front zip closure and buttoned cuffs. Contrast faux leather spread collar.",
+        "price": "$155.00 USD",
+        "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d8edc31d-49d8-4949-9fa9-ad6e1b4c2f10_2000x.jpg?v=1601905257"
+      },
+      {
+        "id": "velour-jacket-brown",
+        "name": "Velour Jacket in Brown",
+        "details": "Relaxed fitting collared bomber jacket in black velour. Lined in cupro with pantone matched wool ribbing. Custom RiRi hardware and zips.",
+        "price": "$330.00 USD",
+        "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d50c2d82-1215-4a8c-8ab4-4c68deb43471_2000x.jpg?v=1601904984"
+      }],
+    "Pants": [    {
+      "id": "velour-pants-brown",
+      "name": "Velour Pants in Brown",
+      "details": "Brown velour sweatpants in a medium weight velvet jersey cotton blend. Pantone matched Rib to the hem & cuffs with a silver oxidised Cobrax cord adjuster to the hood. RiRi zips to the pockets.",
+      "price": "$125.00 USD",
+      "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_8661ab82-ad9a-4ddc-9915-0f58d3907bca_2000x.jpg?v=1601904956"
     },
-    {
-      "id": "velour-jacket-brown",
-      "name": "Velour Jacket in Brown",
-      "details": "Relaxed fitting collared bomber jacket in black velour. Lined in cupro with pantone matched wool ribbing. Custom RiRi hardware and zips.",
-      "price": "$330.00 USD",
-      "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d50c2d82-1215-4a8c-8ab4-4c68deb43471_2000x.jpg?v=1601904984"
-    }
-  ],
+      {
+        "id": "velour-pants-black",
+        "name": "Velour Pants in Black",
+        "details": "Black velour sweatpants in a medium weight velvet jersey cotton blend. Pantone matched Rib to the hem & cuffs with a silver oxidised Cobrax cord adjuster to the hood. RiRi zips to the pockets.",
+        "price": "$125.00 USD",
+        "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_f424a68c-31e5-4c8d-9b66-9c30d7ad5b8f_2000x.jpg?v=1601904953"
+      },
+      {
+        "id": "military-pants-black",
+        "name": "Military Pants in Black",
+        "details": "A straight leg cargo pant in garment dye vintage black cotton. Cargo pockets on the side and zip pockets to the front. Elasticated drawstring waist and adjustable hem.",
+        "price": "$120.00 USD",
+        "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_a9c6266c-eed4-4e3f-9b46-4d7cf27be8a8_2000x.jpg?v=1601905528"
+      }],
+    "Shoes": [    {
+      "id": "sneakers-in-brown",
+      "name": "Sneakers in Brown",
+      "details": "The Terrier. A lightweight, hand-made sneaker crafted for the everyday wearer. Featuring a chunky sock insert, breathable membrane with a matte body cage. Sitting on a sloping Vibram sole unit, elements of the brand DNA include contrasting 3M reflective touches, matte black piping and hiking laces threaded through a rubber dipped R bar. A carbon bubble",
+      "price": "$325.00 USD",
+      "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_e9ea72f9-c5bb-479f-a5d2-a617204c374e_2000x.jpg?v=1601905684"
+    },
+      {
+        "id": "low-sneakers-taupe",
+        "name": "Low Sneakers in Taupe",
+        "details": "A luxury everyday sneaker featuring a bonded Nylon upper and contrasting translucent rubber sole. Finished with a Cobrax breathable eyelet and Represent embossed metal bar to the tongue. ",
+        "price": "$205.00 USD",
+        "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_203e1b36-1f2c-4938-b544-8b3427df602c_2000x.jpg?v=1601905083"
+      },
+      {
+        "id": "raptors-brown",
+        "name": "Raptor Sneakers in Brown",
+        "details": "The Raptor Sneaker. A mid-top basketball inspired luxury sneaker crafted for everyday wear. Featuring ‘REP’ within the panel work to the outer and inner of the upper, made from tough Italian calf-skin",
+        "price": "$250.00 USD",
+        "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_0591232b-1a50-4b33-86d8-ab0eaf43b3be_2000x.jpg?v=1601905677"
+      }]
+  },
   "profile": {
     "name": "DimitriMichel"
   }
