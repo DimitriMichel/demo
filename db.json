@@ -1,6 +1,6 @@
 {
   "products" : {
-    "Outerwear": [    {
+    "outerwear": [    {
       "id": "shearling-jacket-brown",
       "name": "Shearling Jacket in Brown",
       "details": "A classic silhouette, reimagined in an oversized fit. Crafted from a tumbled Brown leather and black shearling lining. Front zip pockets and heavyweight zip closure. Leather tape seam details.",
@@ -21,7 +21,7 @@
         "price": "$330.00 USD",
         "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_d50c2d82-1215-4a8c-8ab4-4c68deb43471_2000x.jpg?v=1601904984"
       }],
-    "Pants": [    {
+    "pants": [    {
       "id": "velour-pants-brown",
       "name": "Velour Pants in Brown",
       "details": "Brown velour sweatpants in a medium weight velvet jersey cotton blend. Pantone matched Rib to the hem & cuffs with a silver oxidised Cobrax cord adjuster to the hood. RiRi zips to the pockets.",
@@ -42,7 +42,7 @@
         "price": "$120.00 USD",
         "image": "https://cdn.shopify.com/s/files/1/0181/2235/products/1_a9c6266c-eed4-4e3f-9b46-4d7cf27be8a8_2000x.jpg?v=1601905528"
       }],
-    "Shoes": [    {
+    "shoes": [    {
       "id": "sneakers-in-brown",
       "name": "Sneakers in Brown",
       "details": "The Terrier. A lightweight, hand-made sneaker crafted for the everyday wearer. Featuring a chunky sock insert, breathable membrane with a matte body cage. Sitting on a sloping Vibram sole unit, elements of the brand DNA include contrasting 3M reflective touches, matte black piping and hiking laces threaded through a rubber dipped R bar. A carbon bubble",
